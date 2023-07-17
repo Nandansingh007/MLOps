@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/dc357e60055d4938917802c5822258a1/artifacts
+end_time: 1689236122553
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: dc357e60055d4938917802c5822258a1
+run_name: burly-midge-11
+run_uuid: dc357e60055d4938917802c5822258a1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689236122336
+status: 3
+tags: []
+user_id: Nandan

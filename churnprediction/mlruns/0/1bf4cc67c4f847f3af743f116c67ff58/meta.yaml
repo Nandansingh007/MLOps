@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/1bf4cc67c4f847f3af743f116c67ff58/artifacts
+end_time: 1689598337970
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1bf4cc67c4f847f3af743f116c67ff58
+run_name: Regression in balanced data
+run_uuid: 1bf4cc67c4f847f3af743f116c67ff58
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689598330158
+status: 3
+tags: []
+user_id: Nandan

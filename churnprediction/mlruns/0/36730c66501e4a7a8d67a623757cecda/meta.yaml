@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/36730c66501e4a7a8d67a623757cecda/artifacts
+end_time: 1689212105647
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 36730c66501e4a7a8d67a623757cecda
+run_name: caring-mouse-798
+run_uuid: 36730c66501e4a7a8d67a623757cecda
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689212105467
+status: 3
+tags: []
+user_id: Nandan

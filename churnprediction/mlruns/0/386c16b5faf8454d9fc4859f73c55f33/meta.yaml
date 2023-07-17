@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/386c16b5faf8454d9fc4859f73c55f33/artifacts
+end_time: 1689301412630
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 386c16b5faf8454d9fc4859f73c55f33
+run_name: grandiose-trout-880
+run_uuid: 386c16b5faf8454d9fc4859f73c55f33
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689301412381
+status: 3
+tags: []
+user_id: Nandan

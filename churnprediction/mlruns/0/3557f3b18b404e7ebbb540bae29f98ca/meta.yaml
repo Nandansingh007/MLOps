@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/3557f3b18b404e7ebbb540bae29f98ca/artifacts
+end_time: 1689598330081
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3557f3b18b404e7ebbb540bae29f98ca
+run_name: Regression in Unbalanced data
+run_uuid: 3557f3b18b404e7ebbb540bae29f98ca
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689598318538
+status: 3
+tags: []
+user_id: Nandan

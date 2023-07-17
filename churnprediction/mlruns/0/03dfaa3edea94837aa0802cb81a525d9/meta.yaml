@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/03dfaa3edea94837aa0802cb81a525d9/artifacts
+end_time: 1689597758829
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 03dfaa3edea94837aa0802cb81a525d9
+run_name: fearless-deer-871
+run_uuid: 03dfaa3edea94837aa0802cb81a525d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689597758486
+status: 3
+tags: []
+user_id: Nandan

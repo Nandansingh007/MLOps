@@ -1,0 +1,6 @@
+artifact_location: file:///E:/MLOps/churnprediction/mlruns/134097528830447483
+creation_time: 1689598165519
+experiment_id: '134097528830447483'
+last_update_time: 1689598165519
+lifecycle_stage: active
+name: CustomerChurn

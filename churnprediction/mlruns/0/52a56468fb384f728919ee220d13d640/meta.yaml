@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/churnprediction/mlruns/0/52a56468fb384f728919ee220d13d640/artifacts
+end_time: 1689485140111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 52a56468fb384f728919ee220d13d640
+run_name: youthful-cow-954
+run_uuid: 52a56468fb384f728919ee220d13d640
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1689485139826
+status: 3
+tags: []
+user_id: Nandan
