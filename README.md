@@ -12,7 +12,20 @@ The project focuses on customer churn prediction. The goal is to develop a machi
 
 # Steps to Run the Code
 
-## Docker
+
+## Running Project on Local Machine
+
+Clone the project repository from GitHub: git clone <repository_url>
+
+Navigate to the project directory: cd <project_directory>
+
+Install the required dependencies using pip: pip install -r requirements.txt
+
+Run the code: python customerchurnprediction.py
+
+
+## Running the project on Docker
+
   Make sure Docker is installed on your system.
   
   Clone the project repository from GitHub: git clone <repository_url>
@@ -22,12 +35,3 @@ The project focuses on customer churn prediction. The goal is to develop a machi
   Build the Docker image: docker build -t <image_name> .
   
   Run the Docker container: docker run <image_name>
-  
-## Running Project on Local Machine
-Clone the project repository from GitHub: git clone <repository_url>
-
-Navigate to the project directory: cd <project_directory>
-
-Install the required dependencies using pip: pip install -r requirements.txt
-
-Run the code: python customerchurnprediction.py
