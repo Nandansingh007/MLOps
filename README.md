@@ -23,7 +23,7 @@ The project focuses on customer churn prediction. The goal is to develop a machi
   
   Run the Docker container: docker run <image_name>
   
-## Local Machine
+## Running Project on Local Machine
 Clone the project repository from GitHub: git clone <repository_url>
 
 Navigate to the project directory: cd <project_directory>
